@@ -651,7 +651,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -677,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -692,7 +691,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #FFFFFF;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -723,11 +722,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333;
 }
 
 h4 {
-    color: #333333!important;
+    color: #333333;
 }
 
 .icons {
@@ -775,7 +774,7 @@ h4 {
 }
 
 .tc-white {
-    color: #123622!important;
+    color: white;
 }
 
 .tc-title-one {
@@ -783,8 +782,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: aliceblue;
+    color: #21F1E7;
 }
 
 .btn-atomic-tangerine:hover {
