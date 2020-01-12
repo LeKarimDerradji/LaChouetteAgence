@@ -774,7 +774,7 @@ h4 {
 }
 
 .tc-white {
-    color: white;
+    color: #0D0D0D;
 }
 
 .tc-title-one {
@@ -782,8 +782,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: aliceblue;
-    color: #21F1E7;
+  background: #F3976C;
+  color: #000000;
 }
 
 .btn-atomic-tangerine:hover {
